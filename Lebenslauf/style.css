@@ -1,0 +1,84 @@
+body{background-image: url("https://images.wallpaperscraft.com/image/single/minimalism_circles_reflections_light_dark_intuition_93161_1920x1200.jpg");
+	background-repeat:no-repeat; 
+	background-attachment:fixed;
+	font-family:sans-serif;
+	} 
+
+h1{color: white;
+    font-size: 150%;
+	}
+
+p{color:white
+}
+
+    a.rot:link, a.rot:visited {
+        background-color: #1a1f23;
+        color: white;
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+		float: right;
+      }
+      
+      a.rot:hover, a.rot:active {
+        background-color: green
+      }
+
+
+.überschrift1{
+	text-align:center; 
+    font-size:300%;
+	font-family:Spectral
+	}
+
+.posi1{padding:100px;
+	text-align: center;
+}
+
+.posi2{padding:70px;
+}
+
+.posi3{padding:100px;
+}
+	
+li{color:white;
+		font-size:150%;
+		}
+
+.opt{width:100px;height:100px; padding: 20px;
+}
+
+.opt2{width: 100px;height: 100px; padding:20px;
+}
+
+.woerter{text-align: right;
+}
+
+.woerter2{text-align: left;
+}
+ .woerter3{text-align: center;}
+
+.para1{text-decoration:underline;
+		text-decoration-color:white;
+		}
+		
+.para2{text-decoration:underline;
+		text-decoration-color:white;
+		}
+		
+.para3{text-decoration:underline;
+		text-decoration-color:white;
+		}
+		
+.para4{text-decoration:underline;
+		text-decoration-color:white;
+		}
+		
+.para5{text-decoration:underline;
+		text-decoration-color:white;
+		}
+
+		
+
+				
